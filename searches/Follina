@@ -4,4 +4,4 @@ Other refs:
 Sigma: https://github.com/SigmaHQ/sigma/pull/3058/files
 
 
-Source Process Name ends with word.exe or excel.exe or outlook.exe or powerpnt.exe and Destination Process Name contains msdt.exe
+Source Process Name ends with word.exe or excel.exe or outlook.exe or powerpnt.exe and Destination Process Name ends with msdt.exe and Destination Service Name contains "ms-msdt:/id" or "IT_BrowseForFile=" or "IT_RebrowseForFile="

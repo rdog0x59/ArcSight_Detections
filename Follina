@@ -1,0 +1,7 @@
+Detection search for Recon and Logger for Follina - https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
+
+Other refs:
+Sigma: https://github.com/SigmaHQ/sigma/pull/3058/files
+
+
+Source Process Name ends with word.exe or excel.exe or outlook.exe or powerpnt.exe and Destination Process Name contains msdt.exe
